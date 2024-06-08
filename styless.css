@@ -1,0 +1,167 @@
+.himg{
+    width: 70px;
+    height: 50px;
+}
+
+.mincmn{
+    background-image: url("https://etimg.etb2bimg.com/photo/93343457.cms");
+    background-size: cover;
+    height: 800px;
+    position: relative;
+}
+
+
+.mincmn2{
+    background-image: url("https://etimg.etb2bimg.com/photo/93343457.cms");
+    background-size: cover;
+    height: 250px;
+    position: relative;
+}
+
+.hhd1{
+    color: #f2e6f7;
+    font-size: 70px;
+    font-family: "'New Century Schoolbook', 'TeX Gyre Schola', 'serif'";
+    font-style: italic;
+    font-weight: 700;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center; 
+}
+
+.hd1{
+    color: #ffffff;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 700;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center; 
+}
+
+.hhd{
+    color: #ffffff;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 700;
+   
+}
+
+.nhd{
+    font-size: 20px;
+}
+
+.cmn{
+    background-color: #59522b;
+    background-size: cover;
+    padding: 20px;
+}
+
+.cmn2{
+    background-color: #b3a13e;
+    background-size: cover;
+    padding: 20px;
+}
+
+
+.chd{
+    color: #f0cc05;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.cp{
+    color: #eef765;
+    font-size: 20px;
+}
+
+.cp2{
+    color: #eef765;
+    font-size: 16px;
+}
+
+.cimg{
+    border-radius: 10px;
+    height: 400px;
+}
+
+.cimg2{
+    border-radius: 10px;
+    height: 250px;
+}
+
+.fmn{
+    border-radius: 8px;
+    background-color: #edf2aa;
+    background-size: cover;
+}
+
+.fhd{
+    color: #373638;
+    font-size: 40px;
+}
+
+.fhd2{
+    color: #373638;
+    font-size: 30px;
+}
+
+.fp{
+    color: #373638;
+    font-size: 18px;
+}
+
+.fimg{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+
+.ffcmn {
+    background-color: #b0b83e;
+    background-size: cover;
+    padding: 10px;
+}
+
+.ffimg {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+}
+
+.ffhd {
+    font-size: 24px;
+    color: #243d17;
+}
+
+.ffp {
+    color: #243d17;
+    font-size: 15px;
+}
+
+.fficon {
+    color: #243d17;
+    font-size: 22px;
+}
+
+.ww{
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#b0a256;
+}
+
+
+@media (max-width: 991.98px){
+    .ww{
+        width: 100%;
+    }   
+}
+
+@media (min-width: 992px){
+    .ww{
+        width: 50%;
+    }
+}
